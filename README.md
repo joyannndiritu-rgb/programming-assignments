@@ -1,7 +1,8 @@
 | Name | Registration Number |
-|Tatiannah Mbula|C026-01-2697/2025|
-| Tabitha Mungai |C026-01-0900/2025  |
-|  Joyann Ndiritu|C026-01-0897/2026  |
+|---|---|
+| Tatiannah Mbula | C026-01-2697/2025 |
+| Tabitha Mungai | C026-01-0900/2025 |
+| Joyann Ndiritu | C026-01-0897/2026 |
 
 
 #     task 1. SACCO Account Withdrawal and Transfer Simulator — Group 8
